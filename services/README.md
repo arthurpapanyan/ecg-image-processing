@@ -1,4 +1,4 @@
-### This services are very basic example of task based data processing implementation that is described in [TASK](../infrastructure/TASK.md)
+### This services are very basic example of task based data processing implementation that is described in [TASK](../infrastructure/Readme.md.md)
 
 - without database implementation
 - without configuration management
